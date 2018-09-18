@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Vchod
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ Vchod\ p\u0159edstavuj\u00ED\ ...\r\n\r\n\ @author\ (jm\u00E9no\ autora)\r\n\ @version\ (\u010D\u00EDslo\ verze\ nebo\ datum)\r\n
+comment1.params=mistnost\ jeOtevren\ klic
+comment1.target=Vchod(Location,\ boolean,\ Item)
+comment2.params=
+comment2.target=Location\ getLocation()
+comment3.params=
+comment3.target=boolean\ getJeOtevren()
+comment4.params=item
+comment4.target=boolean\ odemkni(Item)
+numComments=5

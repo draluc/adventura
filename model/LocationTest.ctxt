@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LocationTest
+comment0.text=\r\n\ Testovac\u00ED\ t\u0159\u00EDda\ LokaceTest\ slou\u017E\u00ED\ ke\ komplexn\u00EDmu\ otestov\u00E1n\u00ED\r\n\ t\u0159\u00EDdy\ Lokace.\r\n\r\n\ @author\ \ \ \ \ Jarmila\ Pavl\u00ED\u010Dkov\u00E1,\ Jan\ \u0158\u00EDha\r\n\ @version\ \ \ \ LS\ 2017/2018\r\n
+comment1.params=
+comment1.target=void\ testExits()
+comment1.text=\r\n\ Testuje,\ zda\ jsou\ spr\u00E1vn\u011B\ nastaveny\ pr\u016Fchody\ mezi\ prostory\ hry.\ Prostory\r\n\ nemus\u00ED\ odpov\u00EDdat\ vlastn\u00ED\ h\u0159e.\ \r\n
+comment2.params=
+comment2.target=void\ testItems()
+comment2.text=\r\n\ Testuje,\ zda\ spr\u00E1vn\u011B\ funguje\ pr\u00E1ce\ s\ p\u0159edm\u011Bty\ v\ lokaci.\ Nastaven\u00ED\r\n\ nemus\u00ED\ odpov\u00EDdat\ vlastn\u00ED\ h\u0159e.\ \r\n
+numComments=3

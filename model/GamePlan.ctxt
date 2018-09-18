@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GamePlan
+comment0.text=\r\n\ Class\ HerniPlan\ -\ t\u0159\u00EDda\ p\u0159edstavuj\u00EDc\u00ED\ mapu\ a\ stav\ adventury.\r\n\ \r\n\ Tato\ t\u0159\u00EDda\ inicializuje\ prvky\ ze\ kter\u00FDch\ se\ hra\ skl\u00E1d\u00E1\:\r\n\ vytv\u00E1\u0159\u00ED\ v\u0161echny\ lokace,\ propojuje\ je\ vz\u00E1jemn\u011B\ pomoc\u00ED\ v\u00FDchod\u016F\ \r\n\ a\ pamatuje\ si\ aktu\u00E1ln\u00ED\ lokaci,\ ve\ kter\u00E9\ se\ hr\u00E1\u010D\ pr\u00E1v\u011B\ nach\u00E1z\u00ED.\r\n\r\n\ @author\ \ \ \ \ Michael\ Kolling,\ Lubo\u0161\ Pavl\u00ED\u010Dek,\ Jarmila\ Pavl\u00ED\u010Dkov\u00E1,\ Jan\ \u0158\u00EDha\r\n\ @version\ \ \ \ LS\ 2017/2018\r\n
+comment1.params=
+comment1.target=GamePlan()
+comment1.text=\r\n\ Konstruktor\ kter\u00FD\ vytv\u00E1\u0159\u00ED\ jednotliv\u00E9\ lokace\ a\ propojuje\ je\ pomoc\u00ED\ v\u00FDchod\u016F.\r\n
+comment2.params=
+comment2.target=void\ prepareWorldMap()
+comment2.text=\r\n\ Vytv\u00E1\u0159\u00ED\ jednotliv\u00E9\ lokace\ a\ propojuje\ je\ pomoc\u00ED\ v\u00FDchod\u016F.\r\n\ Jako\ v\u00FDchoz\u00ED\ aktu\u00E1ln\u00ED\ lokaci\ nastav\u00ED\ dome\u010Dek.\r\n
+comment3.params=
+comment3.target=Location\ getCurrentLocation()
+comment3.text=\r\n\ Metoda\ vrac\u00ED\ odkaz\ na\ aktu\u00E1ln\u00ED\ lokaci,\ ve\ kter\u00E9\ se\ hr\u00E1\u010D\ pr\u00E1v\u011B\ nach\u00E1z\u00ED.\r\n\r\n\ @return\ \ \ \ aktu\u00E1ln\u00ED\ lokace\r\n
+comment4.params=location
+comment4.target=void\ setCurrentLocation(Location)
+comment4.text=\r\n\ Metoda\ nastav\u00ED\ aktu\u00E1ln\u00ED\ lokaci,\ pou\u017E\u00EDv\u00E1\ se\ nej\u010Dast\u011Bji\ p\u0159i\ p\u0159echodu\ mezi\ lokacemi\r\n\r\n\ @param\ \ \ \ location\ nov\u00E1\ aktu\u00E1ln\u00ED\ lokace\r\n
+comment5.params=
+comment5.target=boolean\ isVictorious()
+numComments=6

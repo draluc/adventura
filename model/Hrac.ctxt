@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Hrac
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ Hrac\ p\u0159edstavuj\u00ED\ ...\r\n\r\n\ @author\ (jm\u00E9no\ autora)\r\n\ @version\ (\u010D\u00EDslo\ verze\ nebo\ datum)\r\n
+comment1.params=plan
+comment1.target=Hrac(GamePlan)
+comment2.params=
+comment2.target=java.lang.String\ ulozDoBatohu()
+comment2.text=\r\n\ Metoda\ <b>ulozDoBAtohu</b>\ p\u0159edstavuje\ zpracov\u00E1n\u00ED\ p\u0159\u00EDkazu\ pro\r\n\ ulo\u017Een\u00ED\ p\u0159edm\u011Btu\ do\ batohu.\ Metoda\ nejprve\ ov\u011B\u0159\u00ED,\ \u017Ee\ m\u00E1\ v\ ruce\ \r\n\ jen\ jeden\ p\u0159edm\u011Bt,\ aby\ jej\ mohl\ vlo\u017Eit\ do\ batohu.\ pot\u00E9\ ov\u011B\u0159\u00ED\ zda\r\n\ nem\u00E1\ pr\u00E1zdn\u00E9\ ruce\ a\ zda\ nen\u00ED\ batoh\ pln\u00FD.\ Pot\u00E9\ vlo\u017E\u00ED\ p\u0159edm\u011Bt\ z\ rukou\r\n\ do\ batohu.\r\n\ \r\n\ @return\ text\ informuj\u00EDc\u00ED\ o\ v\u00FDsledku\ zpracov\u00E1n\u00ED\r\n
+comment3.params=item
+comment3.target=java.lang.String\ vezmi(Item)
+comment3.text=\r\n\ Metoda\ <b>vezmi</b>\ p\u0159edstavuje\ zpracov\u00E1n\u00ED\ p\u0159\u00EDkazu\ pro\r\n\ sebr\u00E1n\u00ED\ p\u0159edm\u011Btu\ a\ ponech\u00E1n\u00ED\ si\ ho\ v\ roukou.\ Metoda\ nejprve\ ov\u011B\u0159\u00ED,\r\n\ \u017Ee\ m\u00E1\ v\ ruce\ pr\u00E1zdn\u00E9\ a\ zda\ p\u0159edm\u011Bt\ existuje.\r\n\ Pot\u00E9\ p\u0159edm\u011Bt\ sebere.\r\n\ \r\n\ @return\ text\ informuj\u00EDc\u00ED\ o\ v\u00FDsledku\ zpracov\u00E1n\u00ED\r\n
+comment4.params=
+comment4.target=java.lang.String\ vyndejZBatohu()
+comment5.params=
+comment5.target=java.lang.String\ pouzijPredmet()
+comment6.params=nazevPredmetu
+comment6.target=java.lang.String\ polozPredmet(java.lang.String)
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandVyndejZBatohu
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ CommandVyndejZBatohu\ p\u0159edstavuj\u00ED\ ...\r\n\r\n\ @author\ (jm\u00E9no\ autora)\r\n\ @version\ (\u010D\u00EDslo\ verze\ nebo\ datum)\r\n
+comment1.params=plan\ hrac
+comment1.target=CommandVyndejZBatohu(GamePlan,\ Hrac)
+comment1.text=\r\n\ Konstruktor\ t\u0159\u00EDdy.\r\n\r\n\ @param\ \ \ \ plan\ hern\u00ED\ pl\u00E1n,\ ve\ kter\u00E9m\ se\ bude\ ve\ h\u0159e\ "chodit"\r\n
+comment2.params=parameters
+comment2.target=java.lang.String\ process(java.lang.String[])
+comment2.text=\r\n\ Metoda\ <b>process</b>\ p\u0159edstavuje\ zpracov\u00E1n\u00ED\ p\u0159\u00EDkazu\ pro\r\n\ sebr\u00E1n\u00ED\ p\u0159edm\u011Btu.\ Metoda\ nejprve\ ov\u011B\u0159\u00ED,\ \u017Ee\ byla\ zavol\u00E1na\r\n\ s\ jedn\u00EDm\ parametrem\ <i>(kter\u00FD\ p\u0159edstavuje\ n\u00E1zev\ p\u0159edm\u011Btu)</i>.\r\n\ N\u00E1sledn\u011B\ ov\u011B\u0159\u00ED,\ \u017Ee\ dan\u00FD\ p\u0159edm\u011Bt\ je\ v\ aktu\u00E1ln\u00ED\ lokaci.\r\n\ N\u00E1sledn\u011B\ ov\u011B\u0159\u00ED,\ \u017Ee\ dan\u00FD\ p\u0159edm\u011Bt\ je\ p\u0159enositeln\u00FD.\ N\u00E1sledn\u011B\r\n\ ov\u011B\u0159\u00ED,\ \u017Ee\ je\ mo\u017En\u00E9\ ho\ vlo\u017Eit\ do\ batohu\ <i>(\u017Ee\ v\ batohu\ je\r\n\ voln\u00E9\ m\u00EDsto)</i>.\ Pokud\ jsou\ v\u0161echny\ podm\u00EDnky\ spln\u011Bn\u00E9,\r\n\ p\u0159edm\u011Bt\ je\ odebr\u00E1n\ z\ lokace\ a\ um\u00EDst\u011Bn\ do\ batohu.\r\n\ \r\n\ @param\ \ parameters\ \ pole\ parametr\u016F\ zadan\u00FDch\ hr\u00E1\u010Dem\ na\ p\u0159\u00EDkazovou\ \u0159\u00E1dku\r\n\ @return\ text\ informuj\u00EDc\u00ED\ o\ v\u00FDsledku\ zpracov\u00E1n\u00ED\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\r\n\r\n\ @return\ \ \ \ n\u00E1zev\ p\u0159\u00EDkazu\r\n
+numComments=4

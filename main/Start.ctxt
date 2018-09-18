@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Start
+comment0.text=\r\n\ T\u0159\u00EDda\ Start\ je\ hlavn\u00ED\ t\u0159\u00EDdou\ projektu,\ kter\u00FD\ p\u0159edstavuje\ jednoduchou\r\n\ textovou\ adventuru\ ur\u010Denou\ k\ dal\u0161\u00EDm\ \u00FAprav\u00E1m\ a\ roz\u0161i\u0159ov\u00E1n\u00ED.\r\n\r\n\ @author\ \ \ \ \ Jarmila\ Pavl\u00ED\u010Dkov\u00E1,\ Jan\ \u0158\u00EDha\r\n\ @version\ \ \ \ LS\ 2017/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Metoda,\ prost\u0159ednictv\u00EDm\ n\u00ED\u017E\ se\ spou\u0161t\u00ED\ cel\u00E1\ aplikace.\ Pokud\r\n\ je\ aplikace\ spu\u0161t\u011Bna\ s\ parametrem,\ p\u0159edpokl\u00E1d\u00E1\ se,\ \u017Ee\ se\ jedn\u00E1\r\n\ o\ cestu\ k\ souboru,\ ze\ kter\u00E9ho\ se\ bude\ na\u010D\u00EDtat\ sc\u00E9n\u00E1\u0159\ hry.\r\n\r\n\ @param\ args\ parametry\ p\u0159\u00EDkazov\u00E9ho\ \u0159\u00E1dku\r\n
+comment2.params=
+comment2.target=Start()
+numComments=3

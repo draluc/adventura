@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TextUI
+comment0.text=\r\n\ Toto\ je\ t\u0159\u00EDda\ u\u017Eivatelsk\u00E9ho\ rozhran\u00ED\ aplikace\ Adventura.\ T\u0159\u00EDda\ vytv\u00E1\u0159\u00ED\r\n\ instanci\ t\u0159\u00EDdy\ Game,\ kter\u00E1\ p\u0159edstavuje\ logiku\ aplikace.\ \u010Cte\ vstup\ zadan\u00FD\r\n\ u\u017Eivatelem\ a\ p\u0159ed\u00E1v\u00E1\ tento\ \u0159et\u011Bzec\ logice\ a\ vypisuje\ odpov\u011B\u010F\ logiky\ na\r\n\ konzoli.\r\n\r\n\ @author\ \ \ \ \ Michael\ Kolling,\ Lubo\u0161\ Pavl\u00ED\u010Dek,\ Jarmila\ Pavl\u00ED\u010Dkov\u00E1,\ Jan\ \u0158\u00EDha\r\n\ @version\ \ \ \ LS\ 2017/2018\r\n
+comment1.params=game
+comment1.target=TextUI(model.IGame)
+comment1.text=\r\n\ Vytv\u00E1\u0159\u00ED\ nov\u00E9\ textov\u00E9\ rozhran\u00ED\ pro\ hru.\r\n\r\n\ @param\ game\ hra\r\n
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\r\n\ Hlavn\u00ED\ metoda\ hry.\ Vyp\u00ED\u0161e\ \u00FAvodn\u00ED\ text\ a\ pak\ opakuje\ \u010Dten\u00ED\ a\ zpracov\u00E1n\u00ED\r\n\ p\u0159\u00EDkazu\ od\ hr\u00E1\u010De\ do\ konce\ hry\ <i>(dokud\ metoda\ isGameOver()\ z\ logiky\r\n\ nevr\u00E1t\u00ED\ hodnotu\ true)</i>.\ Nakonec\ vyp\u00ED\u0161e\ text\ epilogu.\r\n
+comment3.params=fileName
+comment3.target=void\ play(java.lang.String)
+comment3.text=\r\n\ Hlavn\u00ED\ metoda\ hry.\ Vyp\u00ED\u0161e\ \u00FAvodn\u00ED\ text\ a\ pak\ na\u010D\u00EDt\u00E1\ a\ zpracov\u00E1v\u00E1\ p\u0159\u00EDkazy\r\n\ ze\ souboru\ <i>(z\ p\u0159ipraven\u00E9ho\ sc\u00E9n\u00E1\u0159e)</i>,\ dokud\ nen\u00ED\ zpracov\u00E1n\ cel\u00FD\r\n\ soubor\ nebo\ dokud\ hra\ neskon\u010D\u00ED\ <i>(dokud\ metoda\ isGameOver()\ z\ logiky\r\n\ nevr\u00E1t\u00ED\ hodnotu\ true)</i>.\ Nakonec\ vyp\u00ED\u0161e\ text\ epilogu.\r\n
+comment4.params=
+comment4.target=java.lang.String\ readLine()
+comment4.text=\r\n\ Metoda\ p\u0159e\u010Dte\ p\u0159\u00EDkaz\ z\ p\u0159\u00EDkazov\u00E9ho\ \u0159\u00E1dku.\r\n\r\n\ @return\ vrac\u00ED\ p\u0159e\u010Dten\u00FD\ p\u0159\u00EDkaz\ jako\ instanci\ t\u0159\u00EDdy\ String\r\n
+numComments=5
